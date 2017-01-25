@@ -10,5 +10,5 @@ Results provided in the paper are stored in: matlab/o1_results.mat
 
 matlab/o1_plot_results.m - plots these results
 
-matlab/o1_run_analysis.m - gives the stored results for direct path
-and feedback bandwidth sweeps
+matlab/o1_run_analysis.m - recalculates the stored results for direct
+path and feedback bandwidth sweeps
