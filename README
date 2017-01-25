@@ -1,0 +1,14 @@
+This project provides analysis of bandwidth requirements for digital
+predistiortion.
+
+It is provided as appendix to our conference paper: On Digital
+Predistortion Bandwidth Requirements written by Jan Kral and Tomas
+Gotthans at Department of Radioelectronics, Brno University of
+Technology.
+
+Results provided in the paper are stored in: matlab/o1_results.mat
+
+matlab/o1_plot_results.m - plots these results
+
+matlab/o1_run_analysis.m - gives the stored results for direct path
+and feedback bandwidth sweeps
